@@ -20,17 +20,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPIGateway", "WebAPIGateway", "{400E1B75-A62B-4FAD-966D-FD7AD255EEC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.ApiGateway", "ApiGateways\WebApiGateway\Web.ApiGateway\Web.ApiGateway.csproj", "{C03B1ADC-253E-49B7-8EA0-0F463158D6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.ApiGateway", "ApiGateways\WebApiGateway\Web.ApiGateway\Web.ApiGateway.csproj", "{C03B1ADC-253E-49B7-8EA0-0F463158D6B9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBus", "EventBus", "{1BBC895E-9A50-48E0-B662-6CD37F6FAE81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Base", "BuildingBlocks\EventBus\EventBus.Base\EventBus.Base.csproj", "{F5CA3676-B154-4E5D-B74D-C008C32F6AAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.Base", "BuildingBlocks\EventBus\EventBus.Base\EventBus.Base.csproj", "{F5CA3676-B154-4E5D-B74D-C008C32F6AAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Factory", "BuildingBlocks\EventBus\EventBus.Factory\EventBus.Factory.csproj", "{422046AD-7226-4500-8F14-DB15F35E239C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.Factory", "BuildingBlocks\EventBus\EventBus.Factory\EventBus.Factory.csproj", "{422046AD-7226-4500-8F14-DB15F35E239C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.AzureServiceBus", "BuildingBlocks\EventBus\EventBus.AzureServiceBus\EventBus.AzureServiceBus.csproj", "{10D52D61-29D7-47E1-99BD-DED0AC5D60F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.AzureServiceBus", "BuildingBlocks\EventBus\EventBus.AzureServiceBus\EventBus.AzureServiceBus.csproj", "{10D52D61-29D7-47E1-99BD-DED0AC5D60F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.RabbitMQ", "BuildingBlocks\EventBus\EventBus.RabbitMQ\EventBus.RabbitMQ.csproj", "{F101A28E-D52D-4B3D-85DC-0AB12CB88821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.RabbitMQ", "BuildingBlocks\EventBus\EventBus.RabbitMQ\EventBus.RabbitMQ.csproj", "{F101A28E-D52D-4B3D-85DC-0AB12CB88821}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazorWebApp", "BlazorWebApp", "{9A90EB11-5D76-4F78-91A3-1D9C11DB7E17}"
 EndProject
@@ -38,11 +38,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "Clients\BlazorWeb
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasketService", "BasketService", "{0EA45BD3-0B2C-4504-99E3-EE736EAEF209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketService.Api", "Services\BasketService\BasketService\BasketService.Api.csproj", "{DE6032DF-2C32-4929-BEE6-A87E889401D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasketService.Api", "Services\BasketService\BasketService\BasketService.Api.csproj", "{DE6032DF-2C32-4929-BEE6-A87E889401D4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CatalogService", "CatalogService", "{CE9A7EC9-BFA1-4327-BCDA-0295784A9449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogService.Api", "Services\CatalogService\CatalogService\CatalogService.Api.csproj", "{FA0B7FBD-10BC-4B75-8074-2610D20D011B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogService.Api", "Services\CatalogService\CatalogService\CatalogService.Api.csproj", "{FA0B7FBD-10BC-4B75-8074-2610D20D011B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityService", "IdentityService", "{188E0F31-AF7D-48D5-8E63-5E36D4462B2A}"
 EndProject
