@@ -15,5 +15,5 @@ public interface IEventBusSubscriptionManager
     void Clear();
     IEnumerable<SubscriptionInfo> GetHandlersForEvent<T>() where T:IntegrationEvent;
     IEnumerable<SubscriptionInfo> GetHandlersForEvent(string eventName);
-    string GetEventKey<T>();JsonNode 
+    string GetEventKey<T>(); 
 }
